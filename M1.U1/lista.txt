@@ -1,3 +1,7 @@
 galletita
 pan
 limpieza
+bananas
+manzanas
+naranjas
+paltas
